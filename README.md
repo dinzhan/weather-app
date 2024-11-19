@@ -1,1 +1,1 @@
-This is a weather app, that i made using trkinter and request in python. basically it takes information from 1 site i know, then visualises it with tkinter. just launch it and if you have any issues you should turn off you antivirus, don't worry it's not dangerous
+This is a weather app, that i made using tkinter and request in python. basically it takes data from 1 site i know, then visualises it with tkinter. just launch it and if you have any issues you should turn off you antivirus, don't worry it's not dangerous
